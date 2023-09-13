@@ -12,6 +12,17 @@ We also used Simulation/AR to test the functionality of the exoskeleton in a vir
 
 
 :movie_camera: PROJECT & CODING REPOS : [:pushpin:LINK](https://github.com/orgs/Exous-Team/repositories) &emsp; --> &emsp; &emsp;&emsp; <i>will be updated soon</i><br>
-:video_camera: Arabic Videos about the idea : [:pushpin:LINK](https://www.youtube.com/watch?v=J7khKzDMe1c)<br>
+:video_camera: Arabic Videos about the idea : [:pushpin:LINK](https://www.youtube.com/watch?v=J7khKzDMe1c)<br><br>
 
-![ezgif-2-6f7d70781f](https://github.com/Exous-Team/README/assets/92026137/937bd06f-cffc-413d-90e6-8f8b4de75a0b)
+<h2><i>&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;:trophy: Competitions and Participations :trophy:</i></h3>
+
+| 	**Rank :one:**        | 	**TOP :five:**           | 	**:heavy_check_mark:Accepted - Incubations - Fund**           |
+| ------------- | --------------------- | -------------------- |
+|<h5>Scientific Gallery "Technology Field"<br>|<h5> Egypt IOT & AI<br>|<h5>البحث العلمي<br>
+Ibtikar - "Robotics Field"</h5>|<h5>[MIE] Made In Egypt<br>|<h5>Innovation and Incubation day<br>
+---|<h5>GDSC</h5>|<h5>Ibda3 Competition </h5>|
+ 
+  
+
+
+![ezgif-2-62c5d088b0](https://github.com/Exous-Team/README/assets/92026137/84b6c626-e327-461f-961a-f814cc2917c1)
