@@ -8,7 +8,7 @@ We also used Simulation/AR to test the functionality of the exoskeleton in a vir
 
 [Simulation Video at 4:16](https://www.youtube.com/watch?v=rVzghIdxPsk&t=87s)
 
-<img src="https://media.licdn.com/dms/image/D4D22AQGYK1OquPmdAQ/feedshare-shrink_2048_1536/0/1688136802565?e=1697673600&v=beta&t=1aF8yI61xPA1eEoHZzke6Ylmd6ZyJCOjXZPTeW12C9s" width="500" height="278">
+<img src="https://github.com/Moataz-Elmesmary/Graduation-Project/assets/92026137/5624a07f-eb0c-472b-a992-c5e850183db5" width="500" height="278">
 
 
 :movie_camera: PROJECT & CODING REPOS : [:pushpin:LINK](https://github.com/orgs/Exous-Team/repositories) &emsp; --> &emsp; &emsp;&emsp; <i>will be updated soon</i><br>
