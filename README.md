@@ -52,4 +52,3 @@ Ibtikar - "Robotics Field"</h5>|<h5>[MIE] Made In Egypt<br>|<h5>Innovation and I
 
 &emsp; ![ezgif com-optimize](https://github.com/Moataz-Elmesmary/Graduation-Project/assets/92026137/4587ee80-b48f-43fc-8c67-3965627e7b72)
 
-
