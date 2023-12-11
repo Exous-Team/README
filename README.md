@@ -14,7 +14,7 @@ We also used Simulation/AR to test the functionality of the exoskeleton in a vir
 🎥 PROJECT & CODING REPOS : [:pushpin:LINK](https://github.com/orgs/Exous-Team/repositories) &emsp; --> &emsp; &emsp;&emsp; <i>will be updated soon</i><br>
 📹 Arabic Video about the idea and the whole year : [:pushpin:LINK](https://www.youtube.com/watch?v=J7khKzDMe1c)<br><br>
 
-<h2><i>&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;:trophy: Competitions and Participations :trophy:</i></h3>
+<h2><i>&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;🏆 Competitions and Participations 🏆</i></h3>
 
 | 	**Rank :one:**        | 	**TOP :five:**           | 	**:heavy_check_mark:Accepted - Incubations - Fund**           |
 | ------------- | --------------------- | -------------------- |
