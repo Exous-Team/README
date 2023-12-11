@@ -14,7 +14,7 @@ We also used Simulation/AR to test the functionality of the exoskeleton in a vir
 🎥 PROJECT & CODING REPOS : [:pushpin:LINK](https://github.com/orgs/Exous-Team/repositories) &emsp; --> &emsp; &emsp;&emsp; <i>will be updated soon</i><br>
 📹 Arabic Video about the idea and the whole year : [:pushpin:LINK](https://www.youtube.com/watch?v=J7khKzDMe1c)<br><br>
 
-<h2><i>&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;:trophy: Competitions and Participations :trophy:</i></h3>
+<h2><i>&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;🏆 Competitions and Participations 🏆</i></h3>
 
 | 	**Rank :one:**        | 	**TOP :five:**           | 	**:heavy_check_mark:Accepted - Incubations - Fund**           |
 | ------------- | --------------------- | -------------------- |
@@ -38,7 +38,7 @@ Ibtikar - "Robotics Field"</h5>|<h5>[MIE] Made In Egypt<br>|<h5>Innovation and I
   <tr>    
     <td align="center"><a href="https://github.com/0xM0K74"><img src="https://media.licdn.com/dms/image/D4D03AQFQBz6CuYKspA/profile-displayphoto-shrink_400_400/0/1688384026384?e=1707350400&v=beta&t=dhVZQDh8A2rKfPiq8X944mIFCPcUfPeZzTHY8rSvizk" width="100px;" alt=""/><br /><b>Mohammed Kamal
 </b></a><br /><a href="https://github.com/Moataz-Elmesmary/Genomics-Project/commits/main" title="Code"><sub>💻Flutter <br>& FireBase</sub></a></td>
-    <td align="center"><a href="https://github.com/Sameh-Elsherbiny"><img src="https://media.licdn.com/dms/image/D4D03AQHD5dcscioHkQ/profile-displayphoto-shrink_400_400/0/1677974890636?e=1707350400&v=beta&t=6LGSDyoJEN5Y3RoCDHAfcNbqaNCJt5EcEkny1WyEoqc" width="100px;" alt=""/><br /><b>Sameh Elsherbiny</b></a><br /><a href="https://github.com/Moataz-Elmesmary/Genomics-Project/tree/main/templates" title="Code"><sub>💻Artificial Intelligence</sub></a></td>
+    <td align="center"><a href="https://github.com/Sameh-Elsherbiny"><img src="https://avatars.githubusercontent.com/u/129293968?v=4" width="100px;" alt=""/><br /><b>Sameh Elsherbiny</b></a><br /><a href="https://github.com/Moataz-Elmesmary/Genomics-Project/tree/main/templates" title="Code"><sub>💻Artificial Intelligence</sub></a></td>
      <td align="center"><a href="https://github.com/Mernashrif"><img src="https://avatars.githubusercontent.com/u/88146784?v=4" width="100px;" alt=""/><br /><b>Merna Ashraf
 </b></a><br /><a href="https://github.com/Moataz-Elmesmary/Genomics-Project/tree/main/templates" title="Code"><sub>💻Flutter</sub></a></td>
      <td align="center"><a href="https://github.com/mohammed-emam74"><img src="https://avatars.githubusercontent.com/u/129282397?v=4" width="100px;" alt=""/><br /><b>Mohamed Emam</b></a><br /><a href="https://github.com/Moataz-Elmesmary/Genomics-Project/tree/main/templates" title="Code"><sub>💻Artificial Intelligence</sub></a></td>
